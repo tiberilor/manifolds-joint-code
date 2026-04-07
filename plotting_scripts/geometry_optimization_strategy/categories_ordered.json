@@ -1,0 +1,1327 @@
+[
+  {
+    "category": "wild_bird",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "duck",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "pigeon",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "chicken",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "goose",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "swan",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "penguin",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "parrot",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "cat",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "dog",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "pig",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "horse",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "cow",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "deer",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "sheep",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "antelope",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "yak",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "donkey",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "zebra",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "giraffe",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "elephant",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "bear",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "lion",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "monkey",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "rabbit",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "dolphin",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "seal",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "goldfish",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "jellyfish",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "shrimp",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "crab",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "lobster",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "scallop",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "butterfly",
+    "macro": "Living Things",
+    "sub_macro": "Animals"
+  },
+  {
+    "category": "flower",
+    "macro": "Living Things",
+    "sub_macro": "Plants & Flowers"
+  },
+  {
+    "category": "potted_plant",
+    "macro": "Living Things",
+    "sub_macro": "Plants & Flowers"
+  },
+  {
+    "category": "apple",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "pear",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "banana",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "peach",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "plum",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "cherry",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "avocado",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "pomegranate",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "durian",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "orange",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "watermelon",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "grape",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "coconut",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Fruits)"
+  },
+  {
+    "category": "cucumber",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "onion",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "green_onion",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "mushroom",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "tomato",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "pepper",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "potato",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "eggplant",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "broccoli",
+    "macro": "Food & Dining",
+    "sub_macro": "Produce (Vegetables/Herbs/Fungi)"
+  },
+  {
+    "category": "loaf_of_bread",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "cake",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "pie",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "donut",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "steak",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "pasta",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "sandwich",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "hamburger",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "hot_dog",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "ice_cream",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "candy",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "plate_of_rice",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "bowl_of_noddles",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "bowl_of_nuts",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "box_of_french_fries",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "canned",
+    "macro": "Food & Dining",
+    "sub_macro": "Prepared Foods & Staples"
+  },
+  {
+    "category": "plate",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "bowl",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "cup",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "wine_glass",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "bottle",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "jug",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "flask",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "kettle",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "tea_pot",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "cutting_board",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "fork",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "spoon",
+    "macro": "Food & Dining",
+    "sub_macro": "Tableware & Kitchenware"
+  },
+  {
+    "category": "rice_cooker",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "blender",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "coffee_machine",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "toaster",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "gas_stove",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "oven",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "microwave",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "refrigerator",
+    "macro": "Food & Dining",
+    "sub_macro": "Kitchen Appliances"
+  },
+  {
+    "category": "bed",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "couch",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "chair",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "stool",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "bench",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "dinning_table",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "coffee_table",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "desk",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "nightstand",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "cabinet",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "wheelchair",
+    "macro": "Home & Personal",
+    "sub_macro": "Furniture"
+  },
+  {
+    "category": "faucet",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "sink",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "bathtub",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "toilet",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "urinal",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "fire_hydrant",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "parking_meter",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "radiator",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "power_outlet",
+    "macro": "Home & Personal",
+    "sub_macro": "Fixtures & Infrastructure"
+  },
+  {
+    "category": "handbag",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "backpack",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "storage_box",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "trash_bin_can",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "barrel",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "vase",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "luggage",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "briefcase",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "wallet",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "pencil_case",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "computer_box",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "basket",
+    "macro": "Home & Personal",
+    "sub_macro": "Containers & Luggage"
+  },
+  {
+    "category": "leather_shoe",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "sneaker",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "sandal",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "boot",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "high_heel",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "hat",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "helmet",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "bow_tie",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "tie",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "umbrella",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "watch",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "necklace",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "ring",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "pair_of_glasses",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "hanger",
+    "macro": "Home & Personal",
+    "sub_macro": "Clothing & Accessories"
+  },
+  {
+    "category": "toothbrush",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "lipstick",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "towel",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "cleaning_product",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "comb",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "mop",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "broom",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "paint_brush",
+    "macro": "Home & Personal",
+    "sub_macro": "Personal Care & Cleaning"
+  },
+  {
+    "category": "lamp",
+    "macro": "Home & Personal",
+    "sub_macro": "Lighting & Mirrors"
+  },
+  {
+    "category": "lantern",
+    "macro": "Home & Personal",
+    "sub_macro": "Lighting & Mirrors"
+  },
+  {
+    "category": "candle",
+    "macro": "Home & Personal",
+    "sub_macro": "Lighting & Mirrors"
+  },
+  {
+    "category": "mirror",
+    "macro": "Home & Personal",
+    "sub_macro": "Lighting & Mirrors"
+  },
+  {
+    "category": "cosmetics_mirror",
+    "macro": "Home & Personal",
+    "sub_macro": "Lighting & Mirrors"
+  },
+  {
+    "category": "book",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "blackboard",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "globe",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "ruler",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "stapler",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "calculator",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "pen",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "clock",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "tablet",
+    "macro": "Home & Personal",
+    "sub_macro": "Office & School"
+  },
+  {
+    "category": "stuffed_toy",
+    "macro": "Home & Personal",
+    "sub_macro": "Toys & Decor"
+  },
+  {
+    "category": "air_conditioner",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "tv",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "laptop",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "camera",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "telephone",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "cell_phone",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "projector",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "printer",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "keyboard",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "computer_mouse",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "remote",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "microphone",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "head_phone",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "recorder",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "fan",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "hair_dryer",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "washing_machine",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Household Electronics"
+  },
+  {
+    "category": "piano",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "guitar",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "cello",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "tuba",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "trumpet",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "flute",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "saxophone",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "drum",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Musical Instruments & Audio"
+  },
+  {
+    "category": "pair_of_binocular",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Optics & Special"
+  },
+  {
+    "category": "knife",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "pair_of_scissors",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "hammer",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "shovel",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "electric_drill",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "chainsaw",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "ladder",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "fishing_rod",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "key",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "cue",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "tripod",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Tools & Hardware"
+  },
+  {
+    "category": "gun",
+    "macro": "Devices & Instruments",
+    "sub_macro": "Weapons"
+  },
+  {
+    "category": "bicycle",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "scooter",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "stroller",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "trolley",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "rickshaw",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "carriage",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "machinery_vehicle",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "bus",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "train",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "car",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "SUV",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "sports_car",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "ambulance",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "motorcycle",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "van",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "pickup_truck",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "fire_truck",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "heavy_truck",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "ship",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "sailboat",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "airplane",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "helicopter",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "hotair_balloon",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "ballon",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Vehicles & Transportation"
+  },
+  {
+    "category": "hockey_stick",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "baseball_bat",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "baseball",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "soccer_ball",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "basketball",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "american_football",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "tennis_ball",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "golf_ball",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "tennis_racket",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "table_tennis",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "table_tennis_paddle",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "paddle",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "frisbee",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "kite",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "swing",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "hurdle",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "barbell",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "ice_skating_shoe",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "skateboard",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "skiboard",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "snowboard",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "surfboard",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "curling",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "treadmill",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "trophy",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "medal",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "formula_1",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Sports & Recreation"
+  },
+  {
+    "category": "traffic_sign",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "stop_sign",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "speed_limit_sign",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "traffic_cone",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "fire_extinguisher",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "lifesaver",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "flag",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "target",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Signs & Safety"
+  },
+  {
+    "category": "tent",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Outdoor & Structures"
+  },
+  {
+    "category": "awning",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Outdoor & Structures"
+  },
+  {
+    "category": "crane",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Outdoor & Structures"
+  },
+  {
+    "category": "slide",
+    "macro": "Transport & Outdoors",
+    "sub_macro": "Outdoor & Structures"
+  }
+]
