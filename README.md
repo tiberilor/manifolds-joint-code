@@ -1,6 +1,6 @@
 # Repository structure
 
-This repository contains the code to reproduce the results in the paper
+This repository contains the code to reproduce the results in the paper.
 
 The repository includes an `environment.yml` file capturing the main conda environment used for most scripts in this repo. Some components require additional manual installation that is not included in this environment file, in particular:
 - CerberusDet, used by the image-generation pipeline;
