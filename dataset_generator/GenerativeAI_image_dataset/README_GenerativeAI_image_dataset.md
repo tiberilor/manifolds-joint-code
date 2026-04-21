@@ -8,6 +8,12 @@ We generated three such datasets:
 - **validation**: 1000 images per category, used to validate the CNNs during training
 - **test**: 10000 images per category, used to generate neural representations and evaluate linear decoders
 
+## Sample dataset
+
+A small random sample of the dataset (70 images per category) is provided in `dataset_sample/`. It follows the same structure as the full dataset and includes example images, bounding-box `.pkl` files, and the packaged annotation files (`categories.pkl`, `labels.h5`, `bbox_stats.txt`).
+
+To visualize sample images, use `BROWSE_dataset.py`.
+
 ## What the final dataset looks like
 
 The final dataset is a folder with one subfolder per category. Each category folder contains:
