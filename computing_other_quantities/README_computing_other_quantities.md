@@ -77,6 +77,41 @@ CLUSTER_compute_brainscore_WITH_CLEANUP.py computes **Brain-Score alignment to p
   - best score by region
   - average neural score across regions when available
 
+---
+
+### 4. Manifold radius and dimensionality script
+CLUSTER_compute_manifold_radius_dimensionality.py computes the manifold radius and dimensionality defined by mean-field manifold-capacity theory. It extracts one representation manifold per category, constructs the corresponding anchor-point geometry, and estimates radius and dimensionality by sampling Gaussian vectors.
+
+**Main inputs**
+- checkpoint
+- layer
+- dataset folder
+- results folder name
+
+**Optional inputs**
+- random projection
+- random neuron subsampling
+- per-category image subsampling
+- category splitting for parallel jobs
+- number and seed of Gaussian samples
+- classification margin `kappa`
+- dihedral image augmentation
+
+**Expected dataset input**
+- an image dataset folder in the same format used elsewhere in this codebase, containing `labels.h5`
+
+**Output**
+- one cached global-mean HDF5 file
+- one HDF5 file per category containing:
+  - sampled anchor points and Gaussian vectors
+  - raw and centered manifold radius estimates
+  - raw and centered manifold dimensionality estimates
+  - metadata describing the representation, sampling, and reduction settings
+
+Runs with different Gaussian-sampling seeds can be accumulated in the same category files. Repeated seeds are detected and skipped.
+
+---
+
 ## Notes
 
-The CKA and global-alignment scripts follow the same general pattern as the scripts in `linear_decoding_and_theory`: they load a dataset, extract representations from a selected layer, and save a single results file. The Brain-Score script instead uses a small user-edited configuration section inside the script to specify which models to score. 
+The CKA and global-alignment scripts follow the same general pattern as the scripts in `linear_decoding_and_theory`: they load a dataset, extract representations from a selected layer, and save a single results file. The Brain-Score script instead uses a small user-edited configuration section inside the script to specify which models to score.

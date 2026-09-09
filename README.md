@@ -83,3 +83,18 @@ After setting up CerberusDet, edit the dataset-generation script so that the use
 - the local CerberusDet checkpoint file
 
 The dataset-generation code was tested with CerberusDet at commit `f5c34eaf45ae14ff5f8683c821a2ab241449f087`.
+
+## DEMO
+
+The code and instructions provided in this repository allow reproduction of the complete pipeline end-to-end. However, dataset generation, CNN training, and large-scale analyses of neural representations require substantial storage and compute resources. In this work, these steps were run on an HPC cluster using NVIDIA A100 GPUs and are not practical to demo on a local machine.
+
+For a lightweight demo that can be run on a local machine, we provide on [Zenodo](https://doi.org/10.6084/m9.figshare.33491980) a version of this codebase supplemented with some of the generated data. This version additionally contains:
+
+- a small sample of the generated image dataset (70 images per category), together with a dataset-visualization script
+- a subset of saved outputs from the large-scale analyses, including linear-decoding results and measured manifold-geometry quantities
+- plotting scripts that load these saved results, evaluate the theory, and reproduce selected figures from the manuscript
+- the trained checkpoints used for the three main-text CNNs: classification-only network C, joint classification-and-regression network CR, and regression-only network R
+
+For a lightweight demonstration of the analysis code, see the `plotting_scripts/` folder. These scripts use the provided sample results to reproduce representative figures from the paper without rerunning the full computational pipeline. On our local machine, each demo script completed in approximately 1–10 minutes.
+
+The sample images and their visualization script are also included directly in the current GitHub repository, under `dataset_generator/GenerativeAI_image_dataset/`.
